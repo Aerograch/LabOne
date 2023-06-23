@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTool xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tool>
+    <Type>Keyboard instrument</Type>
+    <Description>musical instrument that produces sound by driving pressurised air (called wind) through the organ pipes selected from a keyboard</Description>
+    <Name>﻿Pipe organ</Name>
+  </Tool>
+  <Tool>
+    <Type>String instrument</Type>
+    <Description>fretted musical instrument that typically has six strings</Description>
+    <Name>Guitar</Name>
+  </Tool>
+</ArrayOfTool>
